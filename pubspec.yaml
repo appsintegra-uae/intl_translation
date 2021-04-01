@@ -5,7 +5,7 @@ description: >-
   Contains code to deal with internationalized/localized messages,
   date and number formatting and parsing, bi-directional text, and
   other internationalization issues.
-
+publish_to: "none"
 homepage: https://github.com/dart-lang/intl_translation
 environment:
   sdk: ">=2.7.0 <3.0.0"
